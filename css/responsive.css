@@ -359,7 +359,7 @@
    }
    /* Footer */
    .footer-main {
-      padding-top: 340px;
+      padding-top: 10px;
    }
    .footer-menu {
       float: none
@@ -900,7 +900,7 @@
       top: -20px;
    }
    .footer-main {
-      padding-top: 290px;
+      padding-top: 0px;
    }
    .action-box {
       margin-bottom: 30px;
@@ -1084,7 +1084,7 @@
    }
    /* Footer */
    .footer-main {
-      padding-top: 340px;
+      padding-top: 10px;
    }
    /* home 2 */
    /* Intro */

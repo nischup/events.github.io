@@ -30,6 +30,8 @@ p {
   font-family: 'Asap', sans-serif;
   font-size: 16px;
   line-height: 30px;
+  padding: 25px;
+  text-align: justify;
 }
 
 h1,
