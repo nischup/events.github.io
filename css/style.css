@@ -851,9 +851,18 @@ a[href^=tel] {
   opacity: 1;
 }
 
+.table {
+    width: 100%;
+    max-width: 100%;
+    border: 5px solid#f16b1c !important;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+
 /*-- Section title --*/
 .section-title {
-  font-size: 34px;
+  font-size: 24px;
   margin-top: 0;
   color: #f36f1d;
   text-transform: uppercase;
