@@ -3718,7 +3718,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .ts-testimonial-static {
-  padding: 100px 0;
+  padding: 0px 0;
 }
 .ts-testimonial-static .quote-classic {
   -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.04);
@@ -4217,7 +4217,8 @@ p.panel-title a.collapsed {
 }
 
 .footer-logo {
-  margin: 20px 0 25px;
+  margin-top: 25px;
+  margin-left: 9%;
 }
 
 /* Footer social */
