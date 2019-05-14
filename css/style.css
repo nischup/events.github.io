@@ -1739,7 +1739,7 @@ ul.navbar-nav > li:last-child:after {
   background: none;
 }
 ul.navbar-nav > li > a {
-  color: #fff;
+  color: #fff !important;
   text-rendering: optimizeLegibility;
   display: inline-block;
   padding: 5px 15px;
