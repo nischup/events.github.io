@@ -138,6 +138,24 @@ section,
   padding: 0 !important;
 }
 
+@media (max-width:767px){
+    .div-to-hide{
+        display:none
+    }
+}
+
+@media only screen and (max-width: 1400px) and (min-width: 768px) {
+   .div-to-show{
+        display:none
+    }
+}
+
+/*@media (max-width:1367px){
+    .div-to-show{
+        display:none
+    }
+}*/
+
 .no-border {
   border: none !important;
 }
