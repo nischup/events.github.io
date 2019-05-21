@@ -304,6 +304,12 @@ li {
   padding: 0;
 }
 
+.featured-event-small-text{
+    text-align:justify;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
 .solid-bg {
   background: #f5f5f5;
   -webkit-box-shadow: none;
@@ -2665,6 +2671,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .service-title {
   margin-top: 25px;
+  color: #b3310a;
 }
 
 /* Service Single */
