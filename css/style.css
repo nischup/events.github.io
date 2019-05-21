@@ -144,6 +144,12 @@ section,
     }
 }
 
+@media only screen and (max-width: 1225px) and (min-width: 990px) {
+   .menu-to-hide{
+        display:none !important;
+    }
+}
+
 @media only screen and (max-width: 2560px) and (min-width: 768px) {
    .div-to-show{
         display:none
@@ -1888,6 +1894,15 @@ ul.navbar-nav > li > a i {
 }
 
 @media screen and (min-width: 991px) {
+  .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 0px;
+  }
+}
+
+@media screen and (min-width: 1001px) {
   .dropdown-menu {
     display: block;
     opacity: 0;
