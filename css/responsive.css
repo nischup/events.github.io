@@ -20,6 +20,13 @@
    .dropdown-menu li a {
       font-size: 14px;
    }
+
+   ul.navbar-nav {
+      float: none !important;
+      margin-top: 7.5px;
+      display: none;
+   }
+
    /* Features */
    .ts-feature-info {
       padding: 35px;
