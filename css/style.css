@@ -57,7 +57,7 @@ h2 {
 
 h3 {
   font-size: 19px;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 h4 {
@@ -1215,6 +1215,12 @@ ul.top-menu li a:hover {
   margin-top:50px; 
   width: 100%; 
   max-height:800px; !important;
+}
+
+.featured_event_image_fluid {
+  margin-top:10px; 
+  width: 100%; 
+  max-height:220px; !important;
 }
 
 .header_ticket_textbox {
@@ -2800,7 +2806,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .service-title {
-  margin-top: 25px;
+  margin-top: 10px;
   color: #b3310a;
 }
 
