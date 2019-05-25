@@ -1250,7 +1250,7 @@ ul.top-menu li a:hover {
 
 .event_detail_border {
   border: 3px solid #c1bbbb55;
-  padding: 1px;
+  padding: 15px;
   background: #f9ccb0;
 }
 
@@ -2807,8 +2807,12 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .service-title {
-  margin-top: 17px;
+  margin-top: 20px;
   color: #b3310a;
+}
+
+.padd_left{
+  padding: 7px;
 }
 
 /* Service Single */
