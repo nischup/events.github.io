@@ -1162,6 +1162,121 @@ ul.top-menu li a:hover {
   background: #a80000;
 }
 
+#header {
+  background: #100f0f !important;
+}
+
+.event_list_image {
+  width: 100%; 
+  height: 140px;
+  border-radius: 5px;
+}
+
+.event_list_header {
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.padding_10 {
+  padding: 10px;
+}
+
+.ptext-padding-left {
+  padding-left: 1px;
+}
+
+.ptext_alignment {
+  text-align: justify;
+}
+
+.padding_bottom_10 {
+  padding-bottom: 10px;
+}
+
+.android_icon {
+  width: 120px; 
+  height: auto;
+}
+
+.appicon_left {
+  padding-left: 5px;
+}
+
+.margin_top_40 {
+  margin-top: 40px;
+}
+
+.service_title_style {
+  color: #b3310a; 
+  font-size: 30px;
+}
+
+.event_image_fluid {
+  margin-top:50px; 
+  width: 100%; 
+  max-height:800px; !important;
+}
+
+.header_ticket_textbox {
+  color: #fff; 
+  /*border: 2px solid #e2dcdc; */
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  background: #f26e1d;
+  text-transform: uppercase;
+}
+
+.header_ticket_textbox_hide {
+  color: #fff; 
+  /*border: 2px solid #e2dcdc;*/
+   height: 40px;
+   width: 100%;
+   text-align: center;
+   background: #f26e1d; 
+   text-transform: uppercase;
+}
+
+.padding_top {
+  padding-top: 2%;
+}
+
+.event_detail_border {
+  border: 3px solid #c1bbbb55;
+  padding: 1px;
+  background: #f9ccb0;
+}
+
+.event_detail_text_st {
+  padding-top: 10px; 
+  font-size: 20px;     
+  padding-left: 6%;
+}
+
+.padding_top_10 {
+  padding-top: 10px;
+}
+
+.featured_event_dt_smtest {
+  text-align:justify;
+  padding: 0px;
+}
+
+.remainig_credit_header_text {
+  padding: 20px; 
+  padding-bottom: 0px;
+  font-size: 28px; 
+  color: #b3310a;
+}
+
+.terms_condition_header_text {
+  padding: 10px; 
+  padding-bottom: 0px;
+  font-size: 28px;
+  color: #b3310a;
+}
+
+
 #header.fixed.header-trans-leftbox .header-wrapper:before {
   background: none;
 }
