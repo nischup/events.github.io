@@ -1237,6 +1237,7 @@ ul.top-menu li a:hover {
   color: #fff; 
   /*border: 2px solid #e2dcdc;*/
    height: 40px;
+   line-height: 42px;
    width: 100%;
    text-align: center;
    background: #f26e1d; 
@@ -2806,7 +2807,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .service-title {
-  margin-top: 10px;
+  margin-top: 17px;
   color: #b3310a;
 }
 
